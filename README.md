@@ -18,7 +18,6 @@ Whether you're leading support, delivery, or technical operations, this playbook
 
 ## 👋 About Me
 
-I'm **Radjesh Ramautar**, a people-first leader with a background in support and delivery management. I enjoy building empowered teams, streamlining processes, and fostering a culture of continuous improvement.
+I'm **Radjesh Ramautar**, a Support and Delivery Manager with a passion for building high-performing teams and driving customer success. I thrive in fast-paced environments where collaboration, clarity, and continuous improvement make the difference.
 
-📍 Based in the Netherlands — open to global roles and collaborations.  
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/radjeshramautar/)
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/radjeshramautar/).
