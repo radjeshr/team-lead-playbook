@@ -38,6 +38,9 @@ Key ITIL-aligned principles in this playbook:
 - 🎯 **Continual Service Improvement (CSI)** — embedded in team retrospectives and feedback loops.
 - 📋 **Operational Level Agreements (OLAs)** — defined expectations through team charters and internal SLAs.
 
+🎓 I hold the **ITIL® Expert Certificate in IT Service Management** along with all intermediate certifications across the lifecycle and capability streams (Service Strategy, Transition, Operations, CSI, etc.).  
+📎 [View certifications on LinkedIn](https://www.linkedin.com/in/radjeshramautar/details/certifications/)
+
 While this isn't a formal ITIL manual, it reflects how I’ve applied the framework pragmatically in team leadership and support operations.
 
 ---
@@ -46,4 +49,4 @@ While this isn't a formal ITIL manual, it reflects how I’ve applied the framew
 
 I'm **Radjesh Ramautar**, a Support and Delivery Manager with a passion for building high-performing teams and driving customer success. I thrive in fast-paced environments where collaboration, clarity, and continuous improvement make the difference.
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/radjeshramautar/).
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/radjeshramautar/)
