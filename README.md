@@ -13,3 +13,12 @@ Welcome! This repository is a collection of frameworks, checklists, and processe
 Whether you're leading support, delivery, or technical operations, this playbook is built to scale.
 
 > Let’s create clarity, ownership, and momentum — one play at a time.
+
+---
+
+## 👋 About Me
+
+I'm **Radjesh Ramautar**, a people-first leader with a background in support and delivery management. I enjoy building empowered teams, streamlining processes, and fostering a culture of continuous improvement.
+
+📍 Based in the Netherlands — open to global roles and collaborations.  
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/radjeshramautar/)
