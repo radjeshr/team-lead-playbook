@@ -16,6 +16,18 @@ Whether you're leading support, delivery, or technical operations, this playbook
 
 ---
 
+## 📊 Visual Overview
+
+### Escalation Process Flowchart
+![Escalation Process](./Flowchart%20of%20the%20escalation%20process.png)
+
+---
+
+### Timeline Diagram of Onboarding Stages
+![Onboarding Timeline](./Timeline%20diagram%20of%20onboarding%20stages.png)
+
+---
+
 ## 👋 About Me
 
 I'm **Radjesh Ramautar**, a Support and Delivery Manager with a passion for building high-performing teams and driving customer success. I thrive in fast-paced environments where collaboration, clarity, and continuous improvement make the difference.
