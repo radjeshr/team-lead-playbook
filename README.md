@@ -4,13 +4,16 @@ Welcome! This repository is a collection of frameworks, checklists, and processe
 
 ## What's Inside
 
-- ✅ Practical onboarding checklists
-- 🚨 Clear escalation workflows
-- 📦 Lightweight delivery framework
-- 🔁 Rituals for team health and consistency
-- 💬 Tips for running effective retrospectives
-
-Whether you're leading support, delivery, or technical operations, this playbook is built to scale.
+- ✅ [Onboarding Checklists](./onboarding-checklist.md)
+- 🚨 [Escalation Workflows](./escalation-process.md)
+- 📦 [Delivery Framework](./delivery-framework.md)
+- 🔁 [Team Rituals](./team-rituals.md)
+- 💬 [Retrospective Guide](./retrospectives.md)
+- 🤝 [Stakeholder Management](./stakeholder-management.md)
+- 📬 [Communication Templates](./communication-templates.md)
+- 📈 [Team Health Metrics](./team-health-metrics.md)
+- 🚨 [Incident Response Framework](./incident-response.md)
+- 📘 [ITIL-Inspired Practices](#-itil-inspired-practices)
 
 > Let’s create clarity, ownership, and momentum — one play at a time.
 
@@ -19,12 +22,12 @@ Whether you're leading support, delivery, or technical operations, this playbook
 ## 📊 Visual Overview
 
 ### Escalation Process Flowchart
-![Escalation Process](./Flowchart%20of%20the%20escalation%20process.png)
+![Escalation Process](./assets/Flowchart%20of%20the%20escalation%20process.png)
 
 ---
 
 ### Timeline Diagram of Onboarding Stages
-![Onboarding Timeline](./Timeline%20diagram%20of%20onboarding%20stages.png)
+![Onboarding Timeline](./assets/Timeline%20diagram%20of%20onboarding%20stages.png)
 
 ---
 
