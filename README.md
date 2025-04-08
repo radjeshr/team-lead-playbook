@@ -28,6 +28,20 @@ Whether you're leading support, delivery, or technical operations, this playbook
 
 ---
 
+## 📘 ITIL-Inspired Practices
+
+Many of the frameworks in this playbook are influenced by ITIL best practices, especially around service delivery and operations. My hands-on experience with ITIL helps me bridge theory and practice in real-world, fast-paced environments.
+
+Key ITIL-aligned principles in this playbook:
+- 🔄 **Incident and Escalation Management** — aligned with ITIL’s Incident Management to restore service quickly.
+- 📥 **Request Fulfillment** — onboarding checklists that mirror structured request handling.
+- 🎯 **Continual Service Improvement (CSI)** — embedded in team retrospectives and feedback loops.
+- 📋 **Operational Level Agreements (OLAs)** — defined expectations through team charters and internal SLAs.
+
+While this isn't a formal ITIL manual, it reflects how I’ve applied the framework pragmatically in team leadership and support operations.
+
+---
+
 ## 👋 About Me
 
 I'm **Radjesh Ramautar**, a Support and Delivery Manager with a passion for building high-performing teams and driving customer success. I thrive in fast-paced environments where collaboration, clarity, and continuous improvement make the difference.
