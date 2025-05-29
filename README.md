@@ -17,6 +17,8 @@ Welcome! This repository is a collection of frameworks, checklists, and processe
 - 🌍 [Remote Team Cohesion Framework](remote-support/remote-support-team-framework.md)
 - 🔄 [PDCA (Plan-Do-Check-Act)](pdca/README.md)
 - 📈 [Continual Service Improvement (CSI)](csi/README.md)
+- 🔄 [PDCA (Plan-Do-Check-Act)](plan-do-check-act.md)
+- 📈 [Continual Service Improvement (CSI)](csi/continual-service-improvement.md)
 
 > Let’s create clarity, ownership, and momentum — one play at a time.
 
