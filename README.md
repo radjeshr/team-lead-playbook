@@ -14,6 +14,7 @@ Welcome! This repository is a collection of frameworks, checklists, and processe
 - 📈 [Team Health Metrics](./team-health-metrics.md)
 - 🚨 [Incident Response Framework](./incident-response.md)
 - 📘 [ITIL-Inspired Practices](#-itil-inspired-practices)
+- 🌍 [Remote Team Cohesion Framework](remote-support-team-framework.md)
 
 > Let’s create clarity, ownership, and momentum — one play at a time.
 
