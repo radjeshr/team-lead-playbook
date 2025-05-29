@@ -15,6 +15,8 @@ Welcome! This repository is a collection of frameworks, checklists, and processe
 - 🚨 [Incident Response Framework](incident-response/incident-response.md)
 - 📘 [ITIL-Inspired Practices](itil-practices/itil-practices.md)
 - 🌍 [Remote Team Cohesion Framework](remote-support/remote-support-team-framework.md)
+- 🔄 [PDCA (Plan-Do-Check-Act)](pdca/README.md)
+- 📈 [Continual Service Improvement (CSI)](csi/README.md)
 
 > Let’s create clarity, ownership, and momentum — one play at a time.
 
