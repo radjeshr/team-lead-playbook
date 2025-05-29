@@ -4,17 +4,17 @@ Welcome! This repository is a collection of frameworks, checklists, and processe
 
 ## What's Inside
 
-- ✅ [Onboarding Checklists](./onboarding-checklist.md)
-- 🚨 [Escalation Workflows](./escalation-process.md)
-- 📦 [Delivery Framework](./delivery-framework.md)
-- 🔁 [Team Rituals](./team-rituals.md)
-- 💬 [Retrospective Guide](./retrospectives.md)
-- 🤝 [Stakeholder Management](./stakeholder-management.md)
-- 📬 [Communication Templates](./communication-templates.md)
-- 📈 [Team Health Metrics](./team-health-metrics.md)
-- 🚨 [Incident Response Framework](./incident-response.md)
-- 📘 [ITIL-Inspired Practices](#-itil-inspired-practices)
-- 🌍 [Remote Team Cohesion Framework](remote-support-team-framework.md)
+- ✅ [Onboarding Checklists](onboarding/onboarding-checklist.md)
+- 🚨 [Escalation Workflows](escalation/escalation-process.md)
+- 📦 [Delivery Framework](delivery/delivery-framework.md)
+- 🔁 [Team Rituals](team-rituals/team-rituals.md)
+- 💬 [Retrospective Guide](retrospectives/retrospectives.md)
+- 🤝 [Stakeholder Management](stakeholder-management/stakeholder-management.md)
+- 📬 [Communication Templates](communication/communication-templates.md)
+- 📈 [Team Health Metrics](team-health/team-health-metrics.md)
+- 🚨 [Incident Response Framework](incident-response/incident-response.md)
+- 📘 [ITIL-Inspired Practices](itil-practices/itil-practices.md)
+- 🌍 [Remote Team Cohesion Framework](remote-support/remote-support-team-framework.md)
 
 > Let’s create clarity, ownership, and momentum — one play at a time.
 
