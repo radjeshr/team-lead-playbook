@@ -1,4 +1,3 @@
-
 # Team Lead Playbook
 
 Welcome! This repository contains frameworks, checklists, and processes refined over the years as a Support Manager, Delivery Manager, and Technical Project Manager. It’s designed to help build high-performing, engaged, and reliable teams.
@@ -6,10 +5,10 @@ Welcome! This repository contains frameworks, checklists, and processes refined 
 ## Visual Overview
 
 ### 📊 Escalation Process Flowchart
-![Escalation Process Flowchart](assets/escalation-flowchart.png)
+<img src="assets/escalation-flowchart.png" width="400"/>
 
 ### 📈 Onboarding Timeline
-![Onboarding Timeline](assets/onboarding-timeline.png)
+<img src="assets/onboarding-timeline.png" width="400"/>
 
 ### 🔄 PDCA vs CSI Comparison
-![PDCA vs CSI Comparison](assets/pdca-csi-visual.png)
+<img src="assets/pdca-csi-visual.png" width="400"/>
