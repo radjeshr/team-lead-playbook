@@ -5,10 +5,10 @@ Welcome! This repository contains frameworks, checklists, and processes refined 
 ## Visual Overview
 
 ### 📊 Escalation Process Flowchart
-<img src="assets/escalation-flowchart.png" width="200"/>
+<img src="assets/escalation-flowchart.png" width="400"/>
 
 ### 📈 Onboarding Timeline
-<img src="assets/onboarding-timeline.png" width="200"/>
+<img src="assets/onboarding-timeline.png" width="400"/>
 
 ### 🔄 PDCA vs CSI Comparison
-<img src="assets/pdca-csi-visual.png" width="200"/>
+<img src="assets/pdca-csi-visual.png" width="400"/>
